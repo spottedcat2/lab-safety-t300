@@ -1,4 +1,22 @@
-﻿/*
+// ==UserScript==
+// @name         盐城工学院实验室安全课程终结者T300
+// @namespace    https://github.com/spottedcat2/lab-safety-t300
+// @version      2.1
+// @description  实验室安全课程AI答题助手（卡密授权）：智能答题、视频自动管理、考试AI助学、复习模式
+// @author       智能学习助手
+// @license      proprietary
+// @homepageURL  https://github.com/spottedcat2/lab-safety-t300
+// @supportURL   https://github.com/spottedcat2/lab-safety-t300
+// @match        *://sa.ycit.edu.cn/*
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_xmlhttpRequest
+// @grant        GM_addStyle
+// @connect      api.labsafetyt300.ltd
+// @run-at       document-end
+// ==/UserScript==
+
+/*
  * ============================================================
  * 盐城工学院实验室安全课程终结者T300 · 售卖版（混淆保护）
  * Copyright (c) 2026 spottedcat2. All rights reserved.
