@@ -20,10 +20,13 @@
 
 ## 🔒 使用说明
 
-1.在 Tampermonkey 中安装本脚本（`dist/lab-safety-selling.obf.js`）
-2.面板内填入卡密 → 激活 → 按需开启功能
+1. 下载最新发布版脚本：**[GitHub Releases](https://github.com/spottedcat2/lab-safety-t300/releases/latest)** → 下载 `lab-safety-selling.obf.js`
+2. 打开浏览器 Tampermonkey 扩展 → 「管理面板」→「从文件导入」选择该文件（或直接把文件拖入浏览器）
+3. 访问 `sa.ycit.edu.cn` 并登录（需先登录学校平台，脚本在该站点自动运行）
+4. 页面右下角出现脚本面板 → 填入卡密 → 激活 → 按需开启功能
 
-> 完整功能需激活授权卡密，未激活时部分功能不可用。
+> 脚本已内置完整 Tampermonkey 元数据头，导入后即可直接使用。
+> 完整功能需激活授权卡密（额度型按用量扣费 / 绑定账号型限时绑定），未激活时部分功能不可用。
 
 ## ⚖️ 版权与许可
 
