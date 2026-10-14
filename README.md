@@ -14,6 +14,13 @@
 - **重点复习**：按章节回顾错题与空题，把复习范围集中到薄弱内容。
 - **便捷控制面板**：可拖动、可收起，并提供清晰的分区设置。
 
+## 项目展示
+
+[打开名片与核心功能展示页](SHOWCASE.md)
+
+![T300 助学项目名片](assets/showcase/t300-project-card.png)
+
+![T300 核心功能介绍](assets/showcase/t300-feature-overview.png)
 ## 下载与安装
 
 1. 从 [GitHub Releases](https://github.com/spottedcat2/lab-safety-t300/releases/latest) 下载 `lab-safety-selling.obf.js`。
